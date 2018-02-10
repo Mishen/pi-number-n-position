@@ -1,0 +1,11 @@
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\bin\Debug\netcoreapp2.0\pi number, n-position.deps.json
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\bin\Debug\netcoreapp2.0\pi number, n-position.runtimeconfig.json
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\bin\Debug\netcoreapp2.0\pi number, n-position.runtimeconfig.dev.json
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\bin\Debug\netcoreapp2.0\pi number, n-position.dll
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\bin\Debug\netcoreapp2.0\pi number, n-position.pdb
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\obj\Debug\netcoreapp2.0\pi number, n-position.csprojResolveAssemblyReference.cache
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\obj\Debug\netcoreapp2.0\pi number, n-position.csproj.CoreCompileInputs.cache
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\obj\Debug\netcoreapp2.0\pi number, n-position.AssemblyInfoInputs.cache
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\obj\Debug\netcoreapp2.0\pi number, n-position.AssemblyInfo.cs
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\obj\Debug\netcoreapp2.0\pi number, n-position.dll
+F:\GitHub\Pi number\pi number, n-position\pi number, n-position\obj\Debug\netcoreapp2.0\pi number, n-position.pdb
