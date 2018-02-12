@@ -24,7 +24,7 @@ namespace pi_number__n_position
                 }
                 
             }
-            //Console.WriteLine(p);
+            Console.WriteLine(p);
             Console.WriteLine("Insert pi number after the decimal point: ");
             number = Convert.ToInt32(Console.ReadLine());
             String value = p.ToString();
