@@ -24,14 +24,16 @@ namespace pi_number__n_position
                 }
                 
             }
-            Console.WriteLine("Insert pi number");
+            Console.WriteLine(p);
+            Console.WriteLine("Insert pi number after the decimal point: ");
             number = Convert.ToInt32(Console.ReadLine());
             String value = p.ToString();
             int startIndex = number+1;
             int length = 1;
             String substring = value.Substring(startIndex, length);
+            Console.Write("Your number is ");
             Console.WriteLine(substring);
-            //are workinggedsfg
+            
         }
     }
 }
